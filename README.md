@@ -28,3 +28,26 @@ Das Ziel: Von Rohdaten zu KPIs und Visualisierungen in wenigen Sekunden.
    ```bash
    git clone https://github.com/Chrisp-Codes/toggl-kpi-dashboard-poc.git
    cd toggl-kpi-dashboard-poc/src
+2. Abhängigkeiten installieren:
+   ```bash
+   pip install -r requirements.txt
+3. Starten:
+   ```bash
+   python main.py
+
+Nutzung
+
+Beim ersten Start ohne .env-Datei wird automatisch nach dem Toggl API-Key gefragt.
+Der Key wird gespeichert und in einer .env-Datei hinterlegt.
+
+Alternativ kann das Projekt im Dummy-Modus gestartet werden (Abfrage beim Start).
+
+Anforderungen
+
+Python 3.10+
+
+Pakete: requests, python-dotenv, pandas, matplotlib
+
+## Lizenz
+Dieses Projekt steht unter der [MIT-Lizenz](https://opensource.org/licenses/MIT).
+
