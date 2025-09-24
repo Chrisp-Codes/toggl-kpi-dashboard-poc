@@ -1,9 +1,13 @@
 # Toggl KPI Dashboard (POC)
 
+[English Version](README_en.md)
+
 ## Überblick
 Dieses Projekt ist ein **Proof of Concept** zur Auswertung von Toggl Track Daten.  
 Es zeigt, wie sich Zeiteinträge automatisch abrufen, bereinigen und in einem kleinen Dashboard visualisieren lassen.  
 Das Ziel: Von Rohdaten zu KPIs und Visualisierungen in wenigen Sekunden.
+
+![Dashboard Screenshot](docs/dashboard_example.png)
 
 ## Features
 - **API-Anbindung** an Toggl Track (über persönlichen API-Key)
