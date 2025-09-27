@@ -1,10 +1,10 @@
 # Toggl KPI Dashboard (POC)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-POC-orange)
-![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+[![English](https://img.shields.io/badge/README-English-informational?style=flat-square)](README_en.md)
+[![Deutsch](https://img.shields.io/badge/README-Deutsch-informational?style=flat-square)](README.md)
 
-[English Version](README_en.md)
 
 ## Überblick
 Dieses Projekt ist ein **Proof of Concept** zur Auswertung von Toggl Track Daten.  
