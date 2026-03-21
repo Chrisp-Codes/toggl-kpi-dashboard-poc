@@ -7,7 +7,7 @@
 
 
 ## Überblick
-Dieses Projekt ist ein **Proof of Concept** zur Auswertung von Toggl Track Daten.  
+Dieses Projekt wertet Toggl Track Daten aus und visualisiert sie als KPI-Dashboard.
 Es zeigt, wie sich Zeiteinträge automatisch abrufen, bereinigen und in einem kleinen Dashboard visualisieren lassen.  
 Das Ziel: Von Rohdaten zu KPIs und Visualisierungen in wenigen Sekunden.
 
