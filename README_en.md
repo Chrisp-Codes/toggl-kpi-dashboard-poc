@@ -6,7 +6,7 @@
 [![Deutsch](https://img.shields.io/badge/README-Deutsch-informational?style=flat-square)](README.md)
 
 ## Overview
-This project is a **Proof of Concept** for analyzing Toggl Track data.  
+This project analyzes Toggl Track data and visualizes it as a KPI dashboard.
 It demonstrates how to automatically fetch time entries, clean them, and visualize them in a small dashboard.  
 The goal: From raw data to KPIs and visualizations within seconds.
 
